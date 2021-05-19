@@ -1,3 +1,10 @@
+**This repository is deprecated.** 
+
+A process change can be suggested:
+
+  * at the **Open Floor** - that takes place every Tuesday and Friday 10:30 ET (either EST or EDT) in #pulp-meeting on Freenode (IRC)
+  * through the developer mailing list (``pulp-dev@redhat.com``)
+
 # Pulp Update Proposals (PUPs)
 
 This repository collects proposals to change the processes we use in the Pulp project. For more information, see [the first PUP](https://github.com/pulp/pups/blob/master/pup-0001.md) which outlines the motivation and process behind PUPs.
